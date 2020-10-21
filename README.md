@@ -1,6 +1,6 @@
 # VR-handgesture
 
-In this project, three custom hand gestures are implemented to manipulate the objects in VR environment.
+In this project, three custom hand gestures are implemented to manipulate the objects in Oculus VR environment.
 
 <img src="https://github.com/wasamisam0119/VR-handgesture/blob/main/pics/Snip20201021_5.png?raw=false" width="680" height="260" alt="ceremony" align=center>
 
